@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutLoginFacebook</string>
+    <string name="sign_up">Sign Up For Facebook</string>
+    <string name="login">Log In</string>
+</resources>
